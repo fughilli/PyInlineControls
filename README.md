@@ -1,3 +1,5 @@
+![SampleImage](https://raw.githubusercontent.com/fughilli/PyInlineControls/master/inlineMicImage.png)
+
 You will need to install PyAudio from here: http://people.csail.mit.edu/hubert/pyaudio/ and pywin32 from here: http://sourceforge.net/projects/pywin32/files/pywin32/Build%20219/
 
 ***Get the 32 bit binaries if you are not absolutely certain that you need 64 bit ones. I have a 64 bit machine but the 64 bit binaries wouldn't work with my 32 bit python installation.***
