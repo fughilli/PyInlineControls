@@ -29,7 +29,6 @@ On the right side of the resulting window, select "Create Task..."
 
 Hit "OK" on everything, and you're all set!
 
-<p>
 Optionally, go to the Settings tab under the Task Properties window and check these:
 ```
 Allow task to be run on demand
@@ -37,4 +36,3 @@ Run task as soon as possible after a scheduled start is missed
 If the task fails, restart every: 1 minute
 If the running task does not end when requested, force it to stop
 ```
-</p>
