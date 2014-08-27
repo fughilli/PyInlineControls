@@ -1,4 +1,4 @@
-To set up this project manually, you have to create a task with the Task Scheduler. To do this, go to the start menu/screen and type "Schedule tasks"; select "Dchedule tasks".
+To set up this project manually, you have to create a task with the Task Scheduler. To do this, go to the start menu/screen and type "Schedule tasks"; select "Schedule tasks".
 
 On the right side of the resulting window, select "Create Task..."
 	Give it a sensible name, such as "Python inline controls"
